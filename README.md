@@ -85,7 +85,19 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zymonody7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zymonody7&show_icons=true&hide_border=true&theme=transparent" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zymonody7&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=html" />
+
+</div>
+
+## 🐍 Contribution
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zymonody7/Zymonody7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zymonody7/Zymonody7/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Zymonody7/Zymonody7/output/github-snake.svg" />
+</picture>
 
 </div>
