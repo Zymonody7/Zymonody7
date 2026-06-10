@@ -54,14 +54,14 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 </div>
 
-> **hife-w8a8-quantization** — HiFloat8 W8A8 PTQ/QAT for Wan2.1-T2V-14B · ICME 2026 Grand Challenge · 🥇 1st ($3,000)
+> **hife-w8a8-quantization** — HiFloat8 W8A8 PTQ/QAT for Wan2.1-T2V-14B · IEEE ICME 2026 Low-bit LLM Quantization Challenge, W8A8 Training track · 🥇 1st as *low team* (76.13, $3,000)
 > **QiNiuMagicRole** — AI character voice chat → one-click interview-podcast export · Next.js 14 + FastAPI + Grok-4 + GPT-SoVITS
 > **CookNow** — 元启视界 AI Vibecoding Contest · 🥈 2nd place · also built [DreamWeaver](https://github.com/Zymonody7/dreamweaver), an AI dream-journaling app
 > **hare-ui** — Vue/TS component library (CLI · docs · tests) · ByteDance Youth Camp Frontend, 8th place · 超级码力奖
 
 ## 🏅 Awards
 
-- HiFloat8 quantization — 1st place, ICME 2026 Grand Challenge ($3,000)
+- IEEE ICME 2026 Low-bit LLM Quantization Challenge · W8A8 Training track — 🥇 1st place as *low team* (76.13, $3,000)
 - Moore Threads MUSA Developer Challenge — 2nd place (Moore Threads AIBook)
 - 元启视界 AI Vibecoding Contest — 2nd place ([CookNow](https://github.com/Zymonody7/CookNow))
 - 5th ByteDance Youth Camp · Frontend track — 8th place, 超级码力奖 ([hare-ui](https://github.com/Zymonody7/hare-ui))
