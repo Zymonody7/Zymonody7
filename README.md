@@ -5,7 +5,6 @@
 **MSc @ University of Chinese Academy of Sciences · Artificial Intelligence · Beijing**
 
 [![GitHub followers](https://img.shields.io/github/followers/Zymonody7?logo=github&style=for-the-badge&color=4F8DFD&labelColor=1a1a1a)](https://github.com/Zymonody7?tab=followers)
-![Visitors](https://komarev.com/ghpvc/?username=Zymonody7&style=for-the-badge&color=4F8DFD&labelColor=1a1a1a&label=VISITORS)
 
 </div>
 
@@ -45,20 +44,13 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![hife](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=hife-w8a8-quantization&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/hife-w8a8-quantization)
-[![magicrole](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=QiNiuMagicRole&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/QiNiuMagicRole)
-
-[![cooknow](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=CookNow&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/CookNow)
-[![hareui](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=hare-ui&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/hare-ui)
-
-</div>
-
-> **hife-w8a8-quantization** — HiFloat8 W8A8 PTQ/QAT for Wan2.1-T2V-14B · IEEE ICME 2026 Low-bit LLM Quantization Challenge, W8A8 Training track · 🥇 1st as *low team* (76.13, $3,000)
-> **QiNiuMagicRole** — AI character voice chat → one-click interview-podcast export · Next.js 14 + FastAPI + Grok-4 + GPT-SoVITS
-> **CookNow** — 元启视界 AI Vibecoding Contest · 🥈 2nd place · also built [DreamWeaver](https://github.com/Zymonody7/dreamweaver), an AI dream-journaling app
-> **hare-ui** — Vue/TS component library (CLI · docs · tests) · ByteDance Youth Camp Frontend, 8th place · 超级码力奖
+| Project | What it is |
+|---|---|
+| [**uiniq**](https://github.com/Zymonody7/uiniq) · [live](https://uiniq.zymonody.cloud) | Voice-first English speaking-practice companion — real-time voice agent (streaming ASR→LLM→TTS, barge-in), phoneme-level scoring, learner memory & SRS, WeChat native voice |
+| [**hife-w8a8-quantization**](https://github.com/Zymonody7/hife-w8a8-quantization) | HiFloat8 W8A8 PTQ/QAT for Wan2.1-T2V-14B · IEEE ICME 2026 Low-bit LLM Quantization Challenge, W8A8 Training track · 🥇 1st as *low team* (76.13, $3,000) |
+| [**QiNiuMagicRole**](https://github.com/Zymonody7/QiNiuMagicRole) | AI character voice chat → one-click interview-podcast export · Next.js 14 + FastAPI + Grok-4 + GPT-SoVITS |
+| [**CookNow**](https://github.com/Zymonody7/CookNow) | 元启视界 AI Vibecoding Contest · 🥈 2nd place · also built [DreamWeaver](https://github.com/Zymonody7/dreamweaver), an AI dream-journaling app |
+| [**hare-ui**](https://github.com/Zymonody7/hare-ui) | Vue/TS component library (CLI · docs · tests) · ByteDance Youth Camp Frontend, 8th place · 超级码力奖 |
 
 ## 🏅 Awards
 
@@ -86,7 +78,7 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zymonody7&show_icons=true&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zymonody7&show_icons=true&hide_border=true&theme=transparent&hide=stars" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zymonody7&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=html" />
 
 </div>
