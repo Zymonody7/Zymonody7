@@ -5,6 +5,7 @@
 **MSc @ University of Chinese Academy of Sciences · Artificial Intelligence · Beijing**
 
 [![GitHub followers](https://img.shields.io/github/followers/Zymonody7?logo=github&style=for-the-badge&color=4F8DFD&labelColor=1a1a1a)](https://github.com/Zymonody7?tab=followers)
+![Visitors](https://komarev.com/ghpvc/?username=Zymonody7&style=for-the-badge&color=4F8DFD&labelColor=1a1a1a&label=VISITORS)
 
 </div>
 
