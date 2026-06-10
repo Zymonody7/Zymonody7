@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm zymonody 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F8DFD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+zymonody+%F0%9F%91%8B;Building+AI+agents+%26+LLM-powered+products;From+fine-tuning+to+shipped+applications" alt="typing" />
 
 **MSc @ University of Chinese Academy of Sciences · Artificial Intelligence · Beijing**
 
-*Building AI agents and LLM-powered products — from fine-tuning to shipped applications.*
-
-[![GitHub followers](https://img.shields.io/github/followers/Zymonody7?logo=github&style=flat-square)](https://github.com/Zymonody7?tab=followers)
-![Visitors](https://komarev.com/ghpvc/?username=Zymonody7&style=flat-square&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/Zymonody7?logo=github&style=for-the-badge&color=4F8DFD&labelColor=1a1a1a)](https://github.com/Zymonody7?tab=followers)
+![Visitors](https://komarev.com/ghpvc/?username=Zymonody7&style=for-the-badge&color=4F8DFD&labelColor=1a1a1a&label=VISITORS)
 
 </div>
+
+---
 
 ## 🤖 What I do
 
@@ -17,19 +17,54 @@
 - **LLM fine-tuning & applied research** — currently fine-tuning models and building agents for **pathogen detection & diagnostic reporting**
 - **Full-stack product engineering** — taking ideas from prototype to production on the web
 
-## 🚀 Shipped
+## 🚀 Shipped Products
 
-| Product | What it is |
-|---|---|
-| [**ipologo.com**](https://ipologo.com) | Agentic conference management — automating conference organization & operations |
-| [**andagents**](https://lifecontext.ai) | Collective-intelligence infra where independent AI agents interact, negotiate & converge |
-| [**auxora.ai**](https://auxora.ai) | AI Chief Growth Officer — automates growth marketing for D2C & e-commerce brands |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [ipologo.com](https://ipologo.com)
+Agentic conference management — automating conference organization & operations end-to-end.
+
+</td>
+<td width="33%" valign="top">
+
+### [andagents](https://lifecontext.ai)
+Collective-intelligence infra where independent AI agents interact, negotiate & converge.
+
+</td>
+<td width="33%" valign="top">
+
+### [auxora.ai](https://auxora.ai)
+AI Chief Growth Officer — automates growth marketing for D2C & e-commerce brands.
+
+</td>
+</tr>
+</table>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![hife](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=hife-w8a8-quantization&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/hife-w8a8-quantization)
+[![magicrole](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=QiNiuMagicRole&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/QiNiuMagicRole)
+
+[![cooknow](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=CookNow&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/CookNow)
+[![hareui](https://github-readme-stats.vercel.app/api/pin/?username=Zymonody7&repo=hare-ui&theme=transparent&hide_border=true&show_owner=false)](https://github.com/Zymonody7/hare-ui)
+
+</div>
+
+> **hife-w8a8-quantization** — HiFloat8 W8A8 PTQ/QAT for Wan2.1-T2V-14B · ICME 2026 Grand Challenge · 🥇 1st ($3,000)
+> **QiNiuMagicRole** — AI character voice chat → one-click interview-podcast export · Next.js 14 + FastAPI + Grok-4 + GPT-SoVITS
+> **CookNow** — 元启视界 AI Vibecoding Contest · 🥈 2nd place · also built [DreamWeaver](https://github.com/Zymonody7/dreamweaver), an AI dream-journaling app
+> **hare-ui** — Vue/TS component library (CLI · docs · tests) · ByteDance Youth Camp Frontend, 8th place · 超级码力奖
 
 ## 🏅 Awards
 
-- HiFloat8 quantization — 1st place, boundary-protection W8A8 for Wan2.1-T2V ($3,000)
+- HiFloat8 quantization — 1st place, ICME 2026 Grand Challenge ($3,000)
 - Moore Threads MUSA Developer Challenge — 2nd place (Moore Threads AIBook)
-- 元启视界 AI Vibecoding Contest — 2nd place, built [CookNow](https://github.com/Zymonody7/CookNow)
+- 元启视界 AI Vibecoding Contest — 2nd place ([CookNow](https://github.com/Zymonody7/CookNow))
+- 5th ByteDance Youth Camp · Frontend track — 8th place, 超级码力奖 ([hare-ui](https://github.com/Zymonody7/hare-ui))
 
 ## 🛠️ Stack
 
@@ -37,12 +72,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
