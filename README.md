@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F8DFD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+zymonody+%F0%9F%91%8B;Building+AI+agents+%26+LLM-powered+products;From+fine-tuning+to+shipped+applications" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8DFD&center=true&vCenter=true&width=820&height=55&lines=Hi%2C+I'm+zymonody+%F0%9F%91%8B;Building+AI+agents+%26+LLM-powered+products;Quantization+%26+inference+optimization;From+fine-tuning+to+shipped+applications" alt="typing" />
 
 **MSc @ University of Chinese Academy of Sciences · Artificial Intelligence · Beijing**
 
@@ -14,6 +14,7 @@
 ## 🤖 What I do
 
 - **AI Agents** — my core focus: agent design, tool use, orchestration, and turning LLMs into reliable products
+- **AI Infra** — model quantization & inference optimization: HiFloat8 W8A8 PTQ/QAT, GPU kernels (MUSA GEMM, MoE routing on MetaX)
 - **LLM fine-tuning & applied research** — currently fine-tuning models and building agents for **pathogen detection & diagnostic reporting**
 - **Full-stack product engineering** — taking ideas from prototype to production on the web
 
