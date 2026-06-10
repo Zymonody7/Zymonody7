@@ -21,14 +21,15 @@
 
 | Product | What it is |
 |---|---|
-| [**ipologo.com**](https://ipologo.com) | AI-powered logo generation |
-| [**lifecontext.ai**](https://lifecontext.ai) | Personal context / memory for AI |
-| [**auxora.ai**](https://auxora.ai) | AI product platform |
+| [**ipologo.com**](https://ipologo.com) | Agentic conference management — automating conference organization & operations |
+| [**andagents**](https://lifecontext.ai) | Collective-intelligence infra where independent AI agents interact, negotiate & converge |
+| [**auxora.ai**](https://auxora.ai) | AI Chief Growth Officer — automates growth marketing for D2C & e-commerce brands |
 
-## 🏆 Highlights
+## 🏅 Awards
 
-- 🥇 **Champion** — HiFloat8 quantization (boundary-protection W8A8 for Wan2.1-T2V)
-- 🎨 **元启视界 Vibe Coding Challenge** — built [CookNow](https://github.com/Zymonody7/CookNow)
+- HiFloat8 quantization — 1st place, boundary-protection W8A8 for Wan2.1-T2V ($3,000)
+- Moore Threads MUSA Developer Challenge — 2nd place (Moore Threads AIBook)
+- 元启视界 AI Vibecoding Contest — 2nd place, built [CookNow](https://github.com/Zymonody7/CookNow)
 
 ## 🛠️ Stack
 
