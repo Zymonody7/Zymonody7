@@ -47,6 +47,7 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 | Project | What it is |
 |---|---|
+| [**portable-triton-playbook**](https://github.com/Zymonody7/portable-triton-playbook) | Cross-platform Triton kernel tuning playbook — correctness-aware per-platform autotuner, W4A8 grouped GEMM MoE techniques (xcoal / widedot / vecw / predeq) · FlagOS 48h Kernel Bounty, T1 — 🏆 Best On-Site Award (34.60, 7/7 platforms) |
 | [**uiniq**](https://github.com/Zymonody7/uiniq) · [live](https://uiniq.zymonody.cloud) | Voice-first English speaking-practice companion — real-time voice agent (streaming ASR→LLM→TTS, barge-in), phoneme-level scoring, learner memory & SRS, WeChat native voice |
 | [**hife-w8a8-quantization**](https://github.com/Zymonody7/hife-w8a8-quantization) | HiFloat8 W8A8 PTQ/QAT for Wan2.1-T2V-14B · IEEE ICME 2026 Low-bit LLM Quantization Challenge, W8A8 Training track · 🥇 1st as *low team* (76.13, $3,000) |
 | [**QiNiuMagicRole**](https://github.com/Zymonody7/QiNiuMagicRole) | AI character voice chat → one-click interview-podcast export · Next.js 14 + FastAPI + Grok-4 + GPT-SoVITS |
@@ -55,6 +56,7 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 ## 🏅 Awards
 
+- FlagOS 48h Kernel Bounty Challenge · Beijing (BAAI Conference 2026) · T1 `w4a8_group_gemm_moe` — 🏆 Best On-Site Award (34.60 avg speedup, 7/7 platforms) ([portable-triton-playbook](https://github.com/Zymonody7/portable-triton-playbook))
 - IEEE ICME 2026 Low-bit LLM Quantization Challenge · W8A8 Training track — 🥇 1st place as *low team* (76.13, $3,000)
 - Moore Threads MUSA Developer Challenge — 2nd place (Moore Threads AIBook)
 - 元启视界 AI Vibecoding Contest — 2nd place ([CookNow](https://github.com/Zymonody7/CookNow))
