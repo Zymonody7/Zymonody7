@@ -47,6 +47,7 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 | Project | What it is |
 |---|---|
+| [**agentic4system**](https://github.com/Zymonody7/agentic4system) | Agentic4System competition full-stack workspace — Track-C compiler / runtime / scheduler, plus grand-final U280 GPGPU work (ISA contract, RTL golden vectors, audit) · 🏆 Grand Prize (特等奖, ¥100,000) |
 | [**portable-triton-playbook**](https://github.com/Zymonody7/portable-triton-playbook) | Cross-platform Triton kernel tuning playbook — correctness-aware per-platform autotuner, W4A8 grouped GEMM MoE techniques (xcoal / widedot / vecw / predeq) · FlagOS 48h Kernel Bounty, T1 — 🏆 Best On-Site Award (34.60, 7/7 platforms) |
 | [**uiniq**](https://github.com/Zymonody7/uiniq) · [live](https://uiniq.zymonody.cloud) | Voice-first English speaking-practice companion — real-time voice agent (streaming ASR→LLM→TTS, barge-in), phoneme-level scoring, learner memory & SRS, WeChat native voice · ICCSE 2026 Agentic AI Innovation Competition — 🥈 Silver Medal |
 | [**babydragon_cnbabylm**](https://github.com/Zymonody7/babydragon_cnbabylm) | Data-efficient Chinese masked LM trained from scratch under a ≤102M-word budget — character-level tokenizer, whole-word MLM + pinyin auxiliary head, code-generated hanzi/grammar fact injection · NLPCC 2026 Shared Task 5 (Chinese BabyLM) — 🥇 1st place, overall & HANZI track |
@@ -57,6 +58,7 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 
 ## 🏅 Awards
 
+- Agentic4System Competition — 🏆 Grand Prize (特等奖, ¥100,000 RMB) ([agentic4system](https://github.com/Zymonody7/agentic4system))
 - NLPCC 2026 Shared Task 5 · Chinese BabyLM — 🥇 1st place, overall & HANZI track ([babydragon_cnbabylm](https://github.com/Zymonody7/babydragon_cnbabylm))
 - ICCSE 2026 Agentic AI Innovation Competition — 🥈 Silver Medal ([uiniq](https://github.com/Zymonody7/uiniq))
 - FlagOS 48h Kernel Bounty Challenge · Beijing (BAAI Conference 2026) · T1 `w4a8_group_gemm_moe` — 🏆 Best On-Site Award (34.60 avg speedup, 7/7 platforms) ([portable-triton-playbook](https://github.com/Zymonody7/portable-triton-playbook))
@@ -64,6 +66,10 @@ AI Chief Growth Officer — automates growth marketing for D2C & e-commerce bran
 - Moore Threads MUSA Developer Challenge — 2nd place (Moore Threads AIBook)
 - 元启视界 AI Vibecoding Contest — 2nd place ([CookNow](https://github.com/Zymonody7/CookNow))
 - 5th ByteDance Youth Camp · Frontend track — 8th place, 超级码力奖 ([hare-ui](https://github.com/Zymonody7/hare-ui))
+
+## 🌱 Open Source Contributions
+
+- [**MakeCindy / cindy**](https://github.com/makecindy/cindy) — "Consider it done": the open-source AI agent that works out of the box. Contributed merged fixes to the desktop & device-link modules, typecheck tooling and docs link gating · [my PRs](https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3AZymonody7)
 
 ## 🛠️ Stack
 
